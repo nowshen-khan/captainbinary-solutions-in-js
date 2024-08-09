@@ -2,7 +2,7 @@
 
 ## Title: Captain Binary solutions in JavaScript
 
-## Link: https://captainbinary.com/
+### Link: https://captainbinary.com/
 
 ### Basic problems for anyone who has just started to program
 
