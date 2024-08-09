@@ -1,10 +1,8 @@
-# captainbinary-solutions-in-js
+# Title: Captain Binary solutions in JavaScript
 
-# Title: captainbinary-solutions-in-js
+## Link: https://captainbinary.com/
 
-# Link: https://captainbinary.com/
-
-## Topics
+### Topics
 
 1. [Variable](variable)
 2. [Condition](condition)
