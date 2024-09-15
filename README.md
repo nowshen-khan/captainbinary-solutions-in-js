@@ -13,7 +13,7 @@
 | 3. [Function](function)   | For understanding functions...  |       10       |
 | 4. [Loop](loop)           | For understanding loops...      |       12       |
 | 5. [Array](array)         | For understanding arrays...     |       20       |
-| 6. [Object](object)       | For understanding objects...    |       00       |
+| 6. [Object](object)       | For understanding objects...    |       10       |
 | 7. [String](string)       | For understanding strings...    |       00       |
 | 8. [Date](date)           | For understanding dates...      |       00       |
 | 9. [Math](math)           | For understanding math...       |       00       |
